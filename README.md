@@ -5,6 +5,8 @@ pages.github.com thing, probably specific to my android adventures
 Markdown: https://guides.github.com/features/mastering-markdown/
 
 Attempting a MarkDown link: [170604-google-io-wear-2.0-complications]
+[foo]({% post_url 2017-06-04-google-io-wear-2.0-complications %})
+[bar]({{ site.baseurl }}{% post_url 2017-06-04-google-io-wear-2.0-complications %})
 
 Direct link: https://chickenbane.github.io/170604-google-io-wear-2.0-complications
 
