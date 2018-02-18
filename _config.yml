@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: Team Engineer
+description: I use GitHub so now I have to use Jekyll.  Funny how that works
+plugins:
+  - jekyll-sitemap

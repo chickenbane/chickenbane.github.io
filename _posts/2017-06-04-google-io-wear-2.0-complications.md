@@ -1,3 +1,7 @@
+---
+title: Google IO 2017
+categories: google wear
+---
 Google IO just happened, and Google just announced some changes to Wear 2.0.  Also I finally received 2.0 on my Moto360 2nd Gen, so I've now unlocked the roadmap to publishing Dotface to the Google Play store.  The major goal for 1.0 is to support a single complication.
 
 # Google IO, Wear 2.0 Updates
@@ -51,4 +55,3 @@ Also just having general problems running a WatchFace on a device or emulator. S
 I am expecting some of these issues to be resolved by upgrading to AS 3.0.
 * Emulators are also being updated, now they include the Play Store
 * Support lib and Google Maven Repo included
-
